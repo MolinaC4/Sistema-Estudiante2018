@@ -1,0 +1,825 @@
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2015\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+E:\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+E:\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Documents\Visual Studio 2017\Projects\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 04-10-2017\SistemaEstudiante\bin\Debug\AForge.Video.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\AForge.Video.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 05-10-2017\SistemaEstudiante 05-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\Proyecto Actualizado 06-10-2017\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Documents\Visual Studio 2017\Projects\SistemaEstudiante 06-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\diego\OneDrive\Documents\Visual Studio 2017\Projects\SistemaEstudiante 11-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\AForge.Video.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 23-10-2017\SistemaEstudiante 13-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Desktop\SistemaEstudiante 24-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 25-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Desktop\SistemaEstudiante 28-10-2017\SistemaEstudiante 24-10-2017\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Ale Molina\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\wittmann\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.EstudiantesInactivos.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.EstudiantesInactivos.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\MySql.Data.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.EstudiantesInactivos.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache

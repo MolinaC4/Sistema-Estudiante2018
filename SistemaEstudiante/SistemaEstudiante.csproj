@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7FFAE8D-CADB-4169-9ADA-695AE69A33B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaEstudiante</RootNamespace>
+    <AssemblyName>SistemaEstudiante</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\Documents\Visual Studio 2017\Projects\SistemaEstudiante\Biblioteca\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\..\Documents\Visual Studio 2017\Projects\SistemaEstudiante\Biblioteca\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaConexion">
+      <HintPath>..\Biblioteca\CapaConexion.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaIntegracion">
+      <HintPath>..\Biblioteca\CapaIntegracion.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaLogica">
+      <HintPath>..\Biblioteca\CapaLogica.dll</HintPath>
+    </Reference>
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QrCode.Net.0.4.0.0\lib\net45\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2">
+      <HintPath>F:\Componentes Graficos Vb2\SKIN NET 2010 WIN 7\SkinVS.NET\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.3.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.3.5\Assemblies\v2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zen.Barcode.Rendering.Framework.3.1.10729.1\lib\Zen.Barcode.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actividades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actividades.Designer.cs">
+      <DependentUpon>Actividades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asistencia.Designer.cs">
+      <DependentUpon>Asistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsistenciaCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsistenciaCurso.designer.cs">
+      <DependentUpon>AsistenciaCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda_asistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda_asistencia.designer.cs">
+      <DependentUpon>Busqueda_asistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CambiarContrasenna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiarContrasenna.Designer.cs">
+      <DependentUpon>CambiarContrasenna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Curso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Curso.Designer.cs">
+      <DependentUpon>Curso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CursosEliminados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CursosEliminados.Designer.cs">
+      <DependentUpon>CursosEliminados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deuda.Designer.cs">
+      <DependentUpon>Deuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estudiante.Designer.cs">
+      <DependentUpon>Estudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstudiantesInactivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstudiantesInactivos.Designer.cs">
+      <DependentUpon>EstudiantesInactivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invitado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invitado.Designer.cs">
+      <DependentUpon>Invitado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaEstudiantes.Designer.cs">
+      <DependentUpon>ListaEstudiantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaUsuarios.Designer.cs">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matriculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matriculas.Designer.cs">
+      <DependentUpon>Matriculas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuConfiguracion.Designer.cs">
+      <DependentUpon>MenuConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaPrincipal.Designer.cs">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecuperarClave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecuperarClave.Designer.cs">
+      <DependentUpon>RecuperarClave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registro.Designer.cs">
+      <DependentUpon>registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegNewUser.Designer.cs">
+      <DependentUpon>RegNewUser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Actividades.resx">
+      <DependentUpon>Actividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asistencia.resx">
+      <DependentUpon>Asistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsistenciaCurso.resx">
+      <DependentUpon>AsistenciaCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda_asistencia.resx">
+      <DependentUpon>Busqueda_asistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambiarContrasenna.resx">
+      <DependentUpon>CambiarContrasenna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Curso.resx">
+      <DependentUpon>Curso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CursosEliminados.resx">
+      <DependentUpon>CursosEliminados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deuda.resx">
+      <DependentUpon>Deuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudiante.resx">
+      <DependentUpon>Estudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstudiantesInactivos.resx">
+      <DependentUpon>EstudiantesInactivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invitado.resx">
+      <DependentUpon>Invitado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaEstudiantes.resx">
+      <DependentUpon>ListaEstudiantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaUsuarios.resx">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriculas.resx">
+      <DependentUpon>Matriculas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuConfiguracion.resx">
+      <DependentUpon>MenuConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaPrincipal.resx">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RecuperarClave.resx">
+      <DependentUpon>RecuperarClave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registro.resx">
+      <DependentUpon>registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegNewUser.resx">
+      <DependentUpon>RegNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abstracto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\azul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entypo_2b05%280%29_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontAwesome_f060%280%29_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entypo_e729%280%29_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entypo_e729%280%29_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entypo_e729%280%29_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entypo_e729%280%29_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entypo_e729%280%29_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontAwesome_f060%280%29_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontAwesome_f0c7%280%29_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atras1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atras11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atras12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontAwesome_f044%280%29_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontAwesome_f044%280%29_641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_back_1931.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FontAwesome_f060%280%29_641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_compose_1055085.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_floppy_disk_save_103863.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-delete_118920.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_graduated_44907.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_bookcase_1228.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_date_edit_66719.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_folder_edit_66793.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-find_38991.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cash_register_17219.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Add-Male-User_49576.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Add-Male-User_49576 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_f-check_256_282474.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-delete_1189201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_floppy_disk_save_1038631.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_f-cross_256_282471.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_System_105256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Settings_105244.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_configure_15508.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_kservices_15660.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_kservices_156601.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-find_389911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_configure_155081.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Add-Male-User_495761.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-find_389912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_preferences-desktop-cryptography_24252.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_f-check_256_2824741.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_list_101833.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
