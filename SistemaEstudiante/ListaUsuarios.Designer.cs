@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel2 = new System.Windows.Forms.Panel();
             this.dgv_usuario = new System.Windows.Forms.DataGridView();
@@ -51,6 +52,7 @@
             this.rb_invitado = new System.Windows.Forms.RadioButton();
             this.rb_admi = new System.Windows.Forms.RadioButton();
             this.label4 = new System.Windows.Forms.Label();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_usuario)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -204,12 +206,13 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::SistemaEstudiante.Properties.Resources.if_f_check_256_2824741;
+            this.pictureBox1.Image = global::SistemaEstudiante.Properties.Resources.if_f_cross_256_282471;
             this.pictureBox1.Location = new System.Drawing.Point(414, 265);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(63, 61);
             this.pictureBox1.TabIndex = 69;
             this.pictureBox1.TabStop = false;
+            this.toolTip1.SetToolTip(this.pictureBox1, "Eliminar");
             this.pictureBox1.Click += new System.EventHandler(this.btn_eliminar_invitado_Click);
             // 
             // label6
@@ -384,5 +387,6 @@
         private System.Windows.Forms.RadioButton rb_invitado;
         private System.Windows.Forms.RadioButton rb_admi;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }

@@ -283,47 +283,54 @@ namespace SistemaEstudiante
             }
         }
 
-
+        //Boton de cargar estudiante
         private void btn_cargar_Click(object sender, EventArgs e)
         {
-            int cedula = int.Parse(txt_cedula.Text);
-            // GestorPersona.CargarDatos(cedula, txt_nombre, txt_primer_apellido1);
-
-            // conexion.ObtenerConexion();
-            string connstring = "SERVER=127.0.0.1;" + "DATABASE=bd_sistema_estudiante;" + "UID=root;" + "PASSWORD=1234;";
-            MySqlConnection cnn = new MySqlConnection(connstring);
-
-
-            cnn.Open();
-            string sql = "SELECT nombre,apellido1, apellido2, telefono, direccion, correo, fechaNacimiento, genero, tipo, foto FROM tbl_estudiante WHERE cedula = " + cedula + "; ";
-            MySqlCommand cmd = new MySqlCommand(sql, cnn);
-
-            MySqlDataReader reader = cmd.ExecuteReader();
-            if (reader.Read())
+            if (string.IsNullOrEmpty(txt_cedula.Text))
             {
-                txt_nombre.Text = Convert.ToString(reader["nombre"]);
-                txt_primer_apellido1.Text = Convert.ToString(reader["apellido1"]);
-                txt_segundo_apellido2.Text = Convert.ToString(reader["apellido2"]);
-                txt_telefono.Text = Convert.ToString(reader["telefono"]);
-                txt_direccion.Text = Convert.ToString(reader["direccion"]);
-                txt_correo.Text = Convert.ToString(reader["correo"]);
-                txt_fecha.Text = Convert.ToDateTime(reader["fechaNacimiento"]).ToString("dd/MM/yyyy");
-
-                if (Convert.ToString(reader["genero"]) == "F")
-                {
-                    rb_femenino.Checked = true;
-                }
-                else
-                {
-                    rb_masculino.Checked = true;
-                }
-
-                cbx_tipo.Text = Convert.ToString(reader["tipo"]);
-                pictureBox2.ImageLocation = Convert.ToString(reader["foto"]);
+                MessageBox.Show("Digite la cedula");
             }
             else
             {
-                MessageBox.Show("No hay registros", "prueba", MessageBoxButtons.OK);
+                int cedula = int.Parse(txt_cedula.Text);
+                // GestorPersona.CargarDatos(cedula, txt_nombre, txt_primer_apellido1);
+
+                // conexion.ObtenerConexion();
+                string connstring = "SERVER=127.0.0.1;" + "DATABASE=bd_sistema_estudiante;" + "UID=root;" + "PASSWORD=1234;";
+                MySqlConnection cnn = new MySqlConnection(connstring);
+
+
+                cnn.Open();
+                string sql = "SELECT nombre,apellido1, apellido2, telefono, direccion, correo, fechaNacimiento, genero, tipo, foto FROM tbl_estudiante WHERE cedula = " + cedula + "; ";
+                MySqlCommand cmd = new MySqlCommand(sql, cnn);
+
+                MySqlDataReader reader = cmd.ExecuteReader();
+                if (reader.Read())
+                {
+                    txt_nombre.Text = Convert.ToString(reader["nombre"]);
+                    txt_primer_apellido1.Text = Convert.ToString(reader["apellido1"]);
+                    txt_segundo_apellido2.Text = Convert.ToString(reader["apellido2"]);
+                    txt_telefono.Text = Convert.ToString(reader["telefono"]);
+                    txt_direccion.Text = Convert.ToString(reader["direccion"]);
+                    txt_correo.Text = Convert.ToString(reader["correo"]);
+                    txt_fecha.Text = Convert.ToDateTime(reader["fechaNacimiento"]).ToString("dd/MM/yyyy");
+
+                    if (Convert.ToString(reader["genero"]) == "F")
+                    {
+                        rb_femenino.Checked = true;
+                    }
+                    else
+                    {
+                        rb_masculino.Checked = true;
+                    }
+
+                    cbx_tipo.Text = Convert.ToString(reader["tipo"]);
+                    pictureBox2.ImageLocation = Convert.ToString(reader["foto"]);
+                }
+                else
+                {
+                    MessageBox.Show("No hay registros", "prueba", MessageBoxButtons.OK);
+                }
             }
         }
 

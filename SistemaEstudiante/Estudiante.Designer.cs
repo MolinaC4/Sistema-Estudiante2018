@@ -517,6 +517,7 @@
             // 
             // cboDispositivos
             // 
+            this.cboDispositivos.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboDispositivos.FormattingEnabled = true;
             this.cboDispositivos.Location = new System.Drawing.Point(27, 216);
             this.cboDispositivos.Name = "cboDispositivos";
