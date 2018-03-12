@@ -862,3 +862,4 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\o
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
