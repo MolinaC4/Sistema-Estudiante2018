@@ -279,7 +279,7 @@ namespace SistemaEstudiante
 
             if (txt_descripcion.Text.Trim() == "")
             {
-                MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                //MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 errorProvider1.SetError(txt_descripcion, "No se permiten espacios en blanco");
                
              }
