@@ -97,3 +97,8 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estu
 C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\CapaConexion\obj\Debug\CapaConexion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema-Estudiante2018\Biblioteca\CapaConexion.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema-Estudiante2018\Biblioteca\CapaConexion.pdb
+C:\Users\Ale Molina\Documents\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Ale Molina\Documents\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Ale Molina\Documents\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.pdb
