@@ -904,7 +904,6 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\o
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.pdb
-<<<<<<< HEAD
 C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
 C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
 C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
@@ -944,6 +943,5 @@ C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudian
 C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
 C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
 C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
-=======
 >>>>>>> b2ca721f1a3e1b112857a28c58355214f8777c96
 >>>>>>> 50cd3ba83e6d1711f32b3829cf8560a31d0b50da

@@ -16,13 +16,13 @@ namespace CapaConexion
         public static MySqlConnection ObtenerConexion()
         {
             // Luis
-<<<<<<< HEAD
+
             MySqlConnection conectar = new MySqlConnection("server=127.0.0.1; database=bd_sistema_estudiante; Uid=root; pwd=N/A;");
-=======
+
             //MySqlConnection conectar = new MySqlConnection("server=127.0.0.1; database=bd_sistema_estudiante; Uid=root; pwd=1234;");
->>>>>>> 50cd3ba83e6d1711f32b3829cf8560a31d0b50da
+
             // Ale
-            MySqlConnection conectar = new MySqlConnection("server=127.0.0.1; database=bd_sistema_estudiante; Uid=root; pwd=782221mm;");
+          //  MySqlConnection conectar = new MySqlConnection("server=127.0.0.1; database=bd_sistema_estudiante; Uid=root; pwd=782221mm;");
             conectar.Open();
             return conectar;
         }
