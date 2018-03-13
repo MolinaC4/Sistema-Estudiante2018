@@ -56,6 +56,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.cbx_opcion = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.ch_contrasenna = new System.Windows.Forms.CheckBox();
             this.gb_genero.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picture_atras)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -69,7 +72,7 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label4.Location = new System.Drawing.Point(24, 282);
+            this.label4.Location = new System.Drawing.Point(22, 307);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(152, 23);
@@ -82,7 +85,7 @@
             this.gb_genero.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.gb_genero.Controls.Add(this.rb_admi);
             this.gb_genero.Controls.Add(this.rb_invitado);
-            this.gb_genero.Location = new System.Drawing.Point(223, 261);
+            this.gb_genero.Location = new System.Drawing.Point(225, 307);
             this.gb_genero.Margin = new System.Windows.Forms.Padding(6, 9, 6, 9);
             this.gb_genero.Name = "gb_genero";
             this.gb_genero.Padding = new System.Windows.Forms.Padding(6, 9, 6, 9);
@@ -133,10 +136,10 @@
             this.txt_confirmacion.Margin = new System.Windows.Forms.Padding(4);
             this.txt_confirmacion.MaxLength = 10;
             this.txt_confirmacion.Name = "txt_confirmacion";
-            this.txt_confirmacion.PasswordChar = '*';
             this.txt_confirmacion.Size = new System.Drawing.Size(252, 29);
             this.txt_confirmacion.TabIndex = 42;
             this.txt_confirmacion.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_confirmacion_KeyPress);
+            this.txt_confirmacion.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txt_confirmacion_KeyUp);
             // 
             // txt_contrasenna
             // 
@@ -145,10 +148,11 @@
             this.txt_contrasenna.Margin = new System.Windows.Forms.Padding(4);
             this.txt_contrasenna.MaxLength = 8;
             this.txt_contrasenna.Name = "txt_contrasenna";
-            this.txt_contrasenna.PasswordChar = '*';
             this.txt_contrasenna.Size = new System.Drawing.Size(252, 29);
             this.txt_contrasenna.TabIndex = 41;
+            this.txt_contrasenna.TextChanged += new System.EventHandler(this.ch_contrasenna_CheckedChanged);
             this.txt_contrasenna.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_contrasenna_KeyPress);
+            this.txt_contrasenna.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txt_contrasenna_KeyUp);
             // 
             // txt_usuario
             // 
@@ -169,7 +173,7 @@
             // 
             this.picture_atras.BackColor = System.Drawing.Color.Transparent;
             this.picture_atras.Image = global::SistemaEstudiante.Properties.Resources.FontAwesome_f060_0__641;
-            this.picture_atras.Location = new System.Drawing.Point(516, 422);
+            this.picture_atras.Location = new System.Drawing.Point(721, 440);
             this.picture_atras.Name = "picture_atras";
             this.picture_atras.Size = new System.Drawing.Size(63, 61);
             this.picture_atras.TabIndex = 67;
@@ -181,7 +185,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::SistemaEstudiante.Properties.Resources.if_f_check_256_2824741;
-            this.pictureBox1.Location = new System.Drawing.Point(431, 422);
+            this.pictureBox1.Location = new System.Drawing.Point(623, 440);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(63, 61);
             this.pictureBox1.TabIndex = 69;
@@ -195,7 +199,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label3.Location = new System.Drawing.Point(8, 159);
+            this.label3.Location = new System.Drawing.Point(8, 165);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(207, 23);
@@ -236,7 +240,7 @@
             this.ayudaToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(646, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(854, 24);
             this.menuStrip1.TabIndex = 68;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -288,13 +292,16 @@
             // verAyudaToolStripMenuItem
             // 
             this.verAyudaToolStripMenuItem.Name = "verAyudaToolStripMenuItem";
-            this.verAyudaToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.verAyudaToolStripMenuItem.Size = new System.Drawing.Size(127, 22);
             this.verAyudaToolStripMenuItem.Text = "Ver Ayuda";
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Transparent;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel1.Controls.Add(this.label8);
+            this.panel1.Controls.Add(this.ch_contrasenna);
+            this.panel1.Controls.Add(this.label7);
             this.panel1.Controls.Add(this.txt_respuestaS);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.cbx_opcion);
@@ -309,18 +316,17 @@
             this.panel1.Controls.Add(this.txt_confirmacion);
             this.panel1.Location = new System.Drawing.Point(74, 41);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(505, 366);
+            this.panel1.Size = new System.Drawing.Size(710, 390);
             this.panel1.TabIndex = 82;
             // 
             // txt_respuestaS
             // 
             this.txt_respuestaS.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_respuestaS.Location = new System.Drawing.Point(223, 219);
+            this.txt_respuestaS.Location = new System.Drawing.Point(223, 259);
             this.txt_respuestaS.Margin = new System.Windows.Forms.Padding(4);
             this.txt_respuestaS.MaxLength = 10;
             this.txt_respuestaS.Multiline = true;
             this.txt_respuestaS.Name = "txt_respuestaS";
-            this.txt_respuestaS.PasswordChar = '*';
             this.txt_respuestaS.Size = new System.Drawing.Size(250, 29);
             this.txt_respuestaS.TabIndex = 72;
             // 
@@ -330,7 +336,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Location = new System.Drawing.Point(8, 195);
+            this.label1.Location = new System.Drawing.Point(8, 235);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(208, 23);
@@ -345,7 +351,7 @@
             "Nombre de su mascota",
             "Color favorito",
             "Comida favorita"});
-            this.cbx_opcion.Location = new System.Drawing.Point(12, 220);
+            this.cbx_opcion.Location = new System.Drawing.Point(12, 261);
             this.cbx_opcion.Name = "cbx_opcion";
             this.cbx_opcion.Size = new System.Drawing.Size(188, 27);
             this.cbx_opcion.TabIndex = 71;
@@ -362,13 +368,50 @@
             this.label6.TabIndex = 0;
             this.label6.Text = "Nuevo Usuario";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.Transparent;
+            this.label7.ForeColor = System.Drawing.Color.Red;
+            this.label7.Location = new System.Drawing.Point(482, 116);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(45, 19);
+            this.label7.TabIndex = 83;
+            this.label7.Text = "label7";
+            this.label7.Visible = false;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.Color.Transparent;
+            this.label8.ForeColor = System.Drawing.Color.Black;
+            this.label8.Location = new System.Drawing.Point(482, 159);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(45, 19);
+            this.label8.TabIndex = 84;
+            this.label8.Text = "label8";
+            this.label8.Visible = false;
+            // 
+            // ch_contrasenna
+            // 
+            this.ch_contrasenna.AutoSize = true;
+            this.ch_contrasenna.BackColor = System.Drawing.Color.Transparent;
+            this.ch_contrasenna.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ch_contrasenna.Location = new System.Drawing.Point(398, 195);
+            this.ch_contrasenna.Name = "ch_contrasenna";
+            this.ch_contrasenna.Size = new System.Drawing.Size(77, 23);
+            this.ch_contrasenna.TabIndex = 85;
+            this.ch_contrasenna.Text = "Mostrar";
+            this.ch_contrasenna.UseVisualStyleBackColor = true;
+            this.ch_contrasenna.CheckedChanged += new System.EventHandler(this.ch_contrasenna_CheckedChanged);
+            // 
             // registro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::SistemaEstudiante.Properties.Resources.Abstracto;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(646, 495);
+            this.ClientSize = new System.Drawing.Size(854, 513);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.picture_atras);
             this.Controls.Add(this.panel1);
@@ -421,5 +464,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txt_respuestaS;
         private System.Windows.Forms.ComboBox cbx_opcion;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.CheckBox ch_contrasenna;
     }
 }
