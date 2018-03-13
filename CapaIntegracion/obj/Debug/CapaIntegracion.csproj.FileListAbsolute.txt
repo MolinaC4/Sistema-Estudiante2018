@@ -115,3 +115,9 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estu
 C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\CapaIntegracion\obj\Debug\CapaIntegracion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante 06-01-2018\Sistema_Estudiante\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\Biblioteca\CapaIntegracion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\Biblioteca\CapaIntegracion.pdb
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.pdb

@@ -826,13 +826,11 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema_Estudiante_2.0\SistemaEstudiante\o
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
-C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaLogica.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\MySql.Data.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
-C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.pdb
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaLogica.pdb
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
@@ -863,3 +861,5 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\o
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.pdb
