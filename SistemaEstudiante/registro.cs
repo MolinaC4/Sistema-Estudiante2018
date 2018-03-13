@@ -15,10 +15,13 @@ namespace SistemaEstudiante
 {
     public partial class registro : Form
     {
+        bool contraseña = false;
+        bool confirmacion = false;
         public registro()
         {
             InitializeComponent();
             cbx_opcion.SelectedIndex = 0;
+            txt_contrasenna.UseSystemPasswordChar = true;
         }
 
         #region Metodos
@@ -191,6 +194,89 @@ namespace SistemaEstudiante
         private void cbx_opcion_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void txt_contrasenna_KeyUp(object sender, KeyEventArgs e)
+        {
+            int mayuscula = 0;
+            int minuscula = 0;
+            int numeros = 0;
+            int cantidad = 0;
+            string cadena = txt_contrasenna.ToString();
+            for (int i = 0; i < cadena.Length; i++)
+            {
+                if (char.IsNumber(cadena[i]))
+                {
+                    numeros = numeros + 1;
+                }
+                else
+                {
+                    if (char.IsLower(cadena[i]))
+                    {
+                        minuscula = minuscula + 1;
+                    }
+                    else
+                    {
+                        if (char.IsUpper(cadena[i]))
+                        {
+                            mayuscula = mayuscula + 1;
+                        }
+                    }
+                }
+            }
+            mayuscula = mayuscula - 6;
+            minuscula = minuscula - 23;
+            cantidad = cadena.Length - 36;
+            if (numeros > 0 && minuscula > 0 && mayuscula > 0 && cantidad == 8)
+            {
+                label7.Text = "Formato Correcto";
+                label7.ForeColor = Color.White;
+                label7.Visible = true;
+                contraseña = true;
+            }
+            else
+            {
+                label7.Text = "Formato invalido. Ejemplo:Luis1997";
+                label7.ForeColor = Color.FromArgb(255, 0, 0);
+                label7.Visible = true;
+            }
+        }
+
+        private void txt_confirmacion_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (txt_contrasenna.Text == txt_confirmacion.Text && contraseña == true)
+            {
+                label8.Text = "Las contraseñas coinciden";
+                label8.ForeColor = Color.White;
+                label8.Visible = true;
+                confirmacion = true;
+            }
+            else
+            {
+                label8.Text = "Las contraseñas no coinciden";
+                label8.ForeColor = Color.FromArgb(255, 0, 0);
+                label8.Visible = true;
+            }
+        }
+
+        private void ch_contrasenna_CheckedChanged(object sender, EventArgs e)
+        {
+            //Es un check box que hace que oculte la contraseña o la muestra
+            //txt_pssw.UseSystemPasswordChar = !ch_contrasenna.Checked;
+
+            //Este pedazo de codigo hace lo mismo que el de arriba, ocultar la contraseña
+            string text = txt_contrasenna.Text;
+            if (ch_contrasenna.Checked)
+            {
+                txt_contrasenna.UseSystemPasswordChar = false;
+                txt_contrasenna.Text = text;
+
+            }
+            else
+            {
+                txt_contrasenna.UseSystemPasswordChar = true;
+                txt_contrasenna.Text = text;
+            }
         }
     }
 }

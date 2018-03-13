@@ -264,12 +264,12 @@ namespace SistemaEstudiante
 
         private void txt_descripcion_KeyPress_1(object sender, KeyPressEventArgs e)
         {
-            /*if (e.KeyChar == (char)Keys.Return)
-            {
-                SendKeys.Send("{TAB}");
-                e.Handled = true;
-            }*/
-            if (e.KeyChar != 32){
+            //Metodo que no permite caracteres especiales, solo caracteres alafanumericos
+            e.Handled = e.KeyChar != (char)Keys.Back && !char.IsSeparator(e.KeyChar) && !char.IsLetter(e.KeyChar) && !char.IsDigit(e.KeyChar);
+        
+            
+            
+           /* if (e.KeyChar != 32){
                 e.Handled = false;
             }
             else
@@ -279,32 +279,28 @@ namespace SistemaEstudiante
 
             if (txt_descripcion.Text.Trim() == "")
             {
-                //MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 errorProvider1.SetError(txt_descripcion, "No se permiten espacios en blanco");
-               // txt_curso.Focus();
-                /*e.Handled = true;
-                return;*/
-            }
-            else
-            {
-                errorProvider1.Clear();
-            }
-        }
-
-        private void txt_curso_KeyPress(object sender, KeyPressEventArgs e)
-        {
-             if (txt_curso.Text.Trim() == "")
-             {
-                 //MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                 errorProvider1.SetError(txt_curso, "No se permiten espacios en blanco");
-                //txt_curso.Focus();
-                 /*e.Handled = true;
-                 return;*/
+               
              }
              else
              {
                  errorProvider1.Clear();
-             }
+             }*/
+         }
+
+         private void txt_curso_KeyPress(object sender, KeyPressEventArgs e)
+         {
+              /*if (txt_curso.Text.Trim() == "")
+              {
+                  MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                  errorProvider1.SetError(txt_curso, "No se permiten espacios en blanco");
+                 
+        }
+             else
+             {
+                 errorProvider1.Clear();
+             }*/
         }
 
         private void txt_descripcion_TextChanged(object sender, EventArgs e)
