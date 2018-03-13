@@ -121,3 +121,9 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debu
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\Biblioteca\CapaLogica.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\Biblioteca\CapaLogica.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaLogica\obj\Debug\CapaLogica.pdb

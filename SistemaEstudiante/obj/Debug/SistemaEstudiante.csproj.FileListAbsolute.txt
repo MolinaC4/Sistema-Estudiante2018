@@ -863,3 +863,42 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\o
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe.config
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.exe
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\SistemaEstudiante.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaIntegracion.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaLogica.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaConexion.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaIntegracion.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\CapaLogica.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Actividades.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Asistencia.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.AsistenciaCurso.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Busqueda_asistencia.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.CambiarContrasenna.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Curso.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.CursosEliminados.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Deuda.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Estudiante.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.EstudiantesInactivos.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Invitado.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaEstudiantes.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.ListaUsuarios.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Login.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Matriculas.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.MenuConfiguracion.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.PantallaPrincipal.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.Properties.Resources.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.RecuperarClave.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.registro.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.RegNewUser.resources
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.GenerateResource.Cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.exe
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\SistemaEstudiante\obj\Debug\SistemaEstudiante.pdb

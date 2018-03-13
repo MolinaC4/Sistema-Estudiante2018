@@ -102,3 +102,9 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\Biblioteca\CapaCone
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\Biblioteca\CapaConexion.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\Biblioteca\CapaConexion.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaConexion\obj\Debug\CapaConexion.pdb

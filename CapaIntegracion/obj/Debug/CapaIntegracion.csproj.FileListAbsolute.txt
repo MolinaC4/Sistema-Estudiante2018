@@ -121,3 +121,9 @@ C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.dll
 C:\Users\Luis Duarte\Documents\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\Biblioteca\CapaIntegracion.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\Biblioteca\CapaIntegracion.pdb
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.csprojResolveAssemblyReference.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\wittm\OneDrive\Documentos\GitHub\Sistema-Estudiante2018\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
