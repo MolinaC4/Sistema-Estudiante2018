@@ -264,12 +264,8 @@ namespace SistemaEstudiante
 
         private void txt_descripcion_KeyPress_1(object sender, KeyPressEventArgs e)
         {
-            //Metodo que no permite caracteres especiales, solo caracteres alafanumericos
-            e.Handled = e.KeyChar != (char)Keys.Back && !char.IsSeparator(e.KeyChar) && !char.IsLetter(e.KeyChar) && !char.IsDigit(e.KeyChar);
-        
-            
-            
-           /* if (e.KeyChar != 32){
+            if ((e.KeyChar > 47 && e.KeyChar < 58) || (e.KeyChar > 64 && e.KeyChar < 90) || (e.KeyChar > 96 && e.KeyChar < 123) || e.KeyChar == 08)
+            {
                 e.Handled = false;
             }
             else
@@ -281,26 +277,28 @@ namespace SistemaEstudiante
             {
                 //MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 errorProvider1.SetError(txt_descripcion, "No se permiten espacios en blanco");
-               
+
+            }
+            else
+            {
+                errorProvider1.Clear();
+            }
+        }
+
+        private void txt_curso_KeyPress(object sender, KeyPressEventArgs e)
+        {
+             if (txt_curso.Text.Trim() == "")
+             {
+                 //MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                 errorProvider1.SetError(txt_curso, "No se permiten espacios en blanco");
+                //txt_curso.Focus();
+                 /*e.Handled = true;
+                 return;*/
              }
              else
              {
                  errorProvider1.Clear();
-             }*/
-         }
-
-         private void txt_curso_KeyPress(object sender, KeyPressEventArgs e)
-         {
-              /*if (txt_curso.Text.Trim() == "")
-              {
-                  MessageBox.Show("Solo se permiten letras", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                  errorProvider1.SetError(txt_curso, "No se permiten espacios en blanco");
-                 
-        }
-             else
-             {
-                 errorProvider1.Clear();
-             }*/
+             }
         }
 
         private void txt_descripcion_TextChanged(object sender, EventArgs e)
